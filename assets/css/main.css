@@ -151,7 +151,6 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #f2849e !important;
 		}
 
 	strong, b {
@@ -1856,7 +1855,6 @@ input, select, textarea {
 			}
 
 			.icon.style2:hover {
-				color: #f2849e;
 				border-color: #f2849e;
 			}
 
@@ -2706,27 +2704,21 @@ input, select, textarea {
 					}
 
 			.tiles article.style1 > .image:before {
-				background-color: #f2849e;
 			}
 
 			.tiles article.style2 > .image:before {
-				background-color: #7ecaf6;
 			}
 
 			.tiles article.style3 > .image:before {
-				background-color: #7bd0c1;
 			}
 
 			.tiles article.style4 > .image:before {
-				background-color: #c75b9b;
 			}
 
 			.tiles article.style5 > .image:before {
-				background-color: #ae85ca;
 			}
 
 			.tiles article.style6 > .image:before {
-				background-color: #8499e7;
 			}
 
 			body:not(.is-touch) .tiles article:hover > .image {
